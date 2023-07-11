@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'wotfardregular';
+  src: url(fonts\wotfard-regular-webfont.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-container h1 {
+  font-size: 48px;
+  font-family: wotfardregular;
+}
+
+.menu {
+  color: #FFF;
+  background-color: #1F2937;
+}
